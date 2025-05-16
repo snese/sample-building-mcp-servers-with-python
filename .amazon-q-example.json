@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "calculator": {
+      "command": "python /path/to/sample-building-mcp-servers-with-python/src/calculator_server.py",
+      "args": []
+    },
+    "s3": {
+      "command": "python /path/to/sample-building-mcp-servers-with-python/src/s3_server.py",
+      "args": []
+    },
+    "rds": {
+      "command": "python /path/to/sample-building-mcp-servers-with-python/src/rds_server.py",
+      "args": []
+    },
+    "postgres": {
+      "command": "python /path/to/sample-building-mcp-servers-with-python/src/postgresql_server.py",
+      "args": ["postgresql://username:password@hostname:port/database"]
+    }
+  }
+}
