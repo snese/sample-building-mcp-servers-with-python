@@ -57,7 +57,9 @@ mcp_logs/
 # Project specific directories to ignore
 .amazonq/
 sample-building-mcp-servers-with-rust/
-fastpmcp/
+fastmcp/
+project_requirements.md
+design_proposal.md
 
 # Local configuration
 config.local.json
