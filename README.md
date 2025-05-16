@@ -155,3 +155,7 @@ To learn more about the Model Context Protocol and FastMCP:
 - [FastMCP Documentation](https://gofastmcp.com/)
 - [Amazon Q Documentation](https://docs.aws.amazon.com/amazonq/)
 - [uv Documentation](https://github.com/astral-sh/uv) - Recommended Python package manager for FastMCP
+
+## Acknowledgments
+
+This project was inspired by [sample-building-mcp-servers-with-rust](https://github.com/aws-samples/sample-building-mcp-servers-with-rust), which provides a similar implementation of MCP servers using Rust. We thank the authors for their work and inspiration.
